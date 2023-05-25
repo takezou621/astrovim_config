@@ -9,4 +9,16 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "github/copilot.vim",
+    lazy=false,
+  },
+  {
+    "hashivim/vim-terraform",
+    lazy=false,
+  },
+  {
+    "juliosueiras/vim-terraform-completion",
+    lazy=false,
+  },
 }
