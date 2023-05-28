@@ -21,4 +21,8 @@ return {
     "juliosueiras/vim-terraform-completion",
     lazy=false,
   },
+  {
+    "hashicorp/terraform-ls",
+    lazy=false,
+  }
 }
