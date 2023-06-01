@@ -40,5 +40,11 @@ return {
   {
     "hrsh7th/vim-vsnip-integ",
     lazy=false,
+  },
+  {
+    "zbirenbaum/copilot-cmp",
+    config = function ()
+      require("copilot_cmp").setup()
+    end
   }
 }
