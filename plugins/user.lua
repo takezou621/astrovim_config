@@ -24,5 +24,21 @@ return {
   {
     "hashicorp/terraform-ls",
     lazy=false,
+  },
+  {
+    "prabirshrestha/vim-lsp",
+    lazy=false,
+  },
+  {
+    "mattn/vim-lsp-settings",
+    lazy=false,
+  },
+  {
+    "hrsh7th/vim-vsnip",
+    lazy=false,
+  },
+  {
+    "hrsh7th/vim-vsnip-integ",
+    lazy=false,
   }
 }
